@@ -9,6 +9,7 @@
   "author": "Ilona Brand",
   "license": "ISC",
   "dependencies": {
+    "play-sound": "0.0.7",
     "request": "^2.69.0"
   }
 }
