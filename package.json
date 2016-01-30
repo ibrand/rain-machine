@@ -1,0 +1,14 @@
+{
+  "name": "rain-maker",
+  "version": "1.0.0",
+  "description": "Play rain noises when it's raining outside.",
+  "main": "rainClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilona Brand",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
